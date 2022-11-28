@@ -17,7 +17,7 @@
       "$ref": "#/$defs/patient"
     }
   },
-  "required" : ["ps"],
+  "required" : ["patient"],
   "additionalProperties": false,
   "$defs": {
     "ps": {
