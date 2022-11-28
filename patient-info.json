@@ -49,7 +49,7 @@
         "patientINS": {"type":  "string"},
         "patientFirstName": {"type":  "string"},
         "patientLastName": {"type":  "string"},
-        "patientDOB": {"type": "date"}
+        "patientDOB": {"type": "string"}
       },
       "additionalProperties": false
     }
